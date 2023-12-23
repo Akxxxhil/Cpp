@@ -1,0 +1,20 @@
+1.C++is case Sensitive.
+2.C++ is a compiler-based language.
+3.C++ supports pointers that allow the user to deal directly with the memory and control the programmer.
+4.It supports the feature of dynamic memory allocation.
+5. C++ is an object-oriented programming language. 
+6.C++ is platform Dependent.
+
+7.iostream stands for Input/Output stream, meaning this header file is necessary to take input through the user or print output to the screen. This header file contains the definitions for the functions:
+
+cin: used to take input
+cout: used to print output
+
+8.There are two ways to add comments to code:
+
+//        - Single Line Comment
+
+/* */    - Multi-line Comments
+
+9. for macros refer this article https://www.codingninjas.com/studio/guided-paths/basics-of-c/content/118623/offering/1378025?goalRedirection=true&leftPanelTabValue=PROBLEM
+

@@ -1,0 +1,1 @@
+1.The auto keyword specifies that the type of the declared variable will automatically be deduced from its initializer.
