@@ -1,0 +1,8 @@
+1.There are two most popular ways to pass parameters, which are:
+
+Pass by Value
+Pass by Reference
+
+2.Pass by Value: Here, values of actual parameters are copied to the function’s formal parameters, and the two types of parameters are stored in different memory locations. Any changes made inside functions are not reflected in the actual parameters of the caller. 
+
+3.Pass by Reference: Here, both actual and formal parameters refer to the same location, so any changes made inside the function are reflected in the actual parameters of the caller.
