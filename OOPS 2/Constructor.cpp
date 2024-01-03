@@ -49,4 +49,12 @@ int main() {
 
     Customer c4 ("Anshu",12,345678);
     c4.display();
+
+    // Using the copy constructor
+    Customer c5(c4);
+    c5.display();
+
+    //for copy constructor and this constructor you need to remove the
+    //Parameterized constructor fro error free
+
 }
